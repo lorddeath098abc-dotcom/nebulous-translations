@@ -1336,7 +1336,7 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     <string name="Win_a_Battle_Royale_">Ganhe um jogo de Batalha Real.</string>
     <string name="Battle_">Batalha!</string>
     <string name="BATTLE_ROYALE">BATALHA REAL</string>
-    <string name="Battle_Royale">Batalha Real</string>
+    <string name="Battle_Royale">Batalha REAL</string>
     <string name="The_winner_will_receive_x_plasma_">O vencedor receberá %s plasma!</string>
     <string name="admin_commands">"
 Comandos:
@@ -1354,7 +1354,7 @@ Comandos:
 !team [1-4] {id} – Somente nos modos de equipes
 !winner – Vencedor de uma partida com tempo
 !stats – Estatísticas da sessão
-!info – Informações da sala"
+!info – "Informações da sala"
 </string>
     <string name="ID_Sort">Classificação ID</string>
     <string name="Master_Tamer">Domador Magistral</string>
@@ -1405,7 +1405,7 @@ Faça login para acessar o modo multijogador. Assim, você poderá:
 - Comprar plasma na loja;
 - Enviar skins criadas por usuários.
 
-Se você não desejar fazer login, ainda poderá jogar no modo único jogador."
+"Se você não desejar fazer login, ainda poderá jogar no modo único jogador."
     </string>
     <string name="_2x_skin_resolution">Qualidade da Skin em Dobro</string>
     <string name="pm">PRIV.</string>
