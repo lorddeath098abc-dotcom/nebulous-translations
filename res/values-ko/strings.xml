@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="Players">"플레이어"</string>
-    <string name="Control_">"조작 :"</string>
-    <string name="CLOSE">"닫기"</string>
-    <string name="Stick_Size_">"스틱 사이즈 :"</string>
-    <string name="Stick_Margin_">"스틱 여백 : "</string>
-    <string name="Button_Size_">"버튼 크기 :"</string>
-    <string name="Button_Margin_">"버튼 여백 :"</string>
-    <string name="Buttons_">"버튼 :"</string>
+<string name="Players">"플레이어들"</string> <!-- Jogadores -->
+<string name="Control_">"조작:"</string> <!-- Controles -->
+<string name="CLOSE">"닫기"</string> <!-- Fechar -->
+<string name="Stick_Size_">"스틱 크기:"</string> <!-- Tamanho do controle -->
+<string name="Stick_Margin_">"스틱 여백:"</string> <!-- Margem do controle -->
+<string name="Button_Size_">"버튼 크기:"</string> <!-- Tamanho do botão -->
+<string name="Button_Margin_">"버튼 여백:"</string> <!-- Margem do botão -->
+<string name="Buttons_">"버튼:"</string> <!-- Botões -->
+<string name="DEFAULTS">"기본값"</string> <!-- Padrões -->
     <string name="DEFAULTS">"기본설정"</string>
     <string name="WEEKLY">"주간"</string>
     <string name="DAILY">"일간"</string>
