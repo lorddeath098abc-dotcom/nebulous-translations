@@ -73,7 +73,7 @@
 
     <string name="OK">"OK"</string>
     <string name="CANCEL">"CANCELAR"</string>
-    <string name="Chat_Name">"Nome no chat"</string>
+    <string name="Chat_Name">"NOME NO CHAT"</string>
     <string name="Max_People">"Máx. de Jogadores"</string>
     <string name="START">"INICIAR"</string>
     <string name="CREATE">"CRIAR"</string>
@@ -84,10 +84,10 @@
 
 
     <string name="ACCOUNT">"CONTA"</string>
-    <string name="Red_Team">"Eq. Vermelha"</string>
+    <string name="Red_Team">"E. Vermelha"</string>
     <string name="Green_Team">"Eq. Verde"</string>
-    <string name="Blue_Team">"Eq. Azul"</string>
-    <string name="Yellow_Team">"Eq. Amarela"</string>
+    <string name="Blue_Team">"E. Azul"</string>
+    <string name="Yellow_Team">"EQ. Amarela"</string>
     <string name="Signed_in_as_">"Autenticado como:"</string>
     <string name="Not_signed_in_">"Não autenticado!"</string>
     <string name="SET_NAME">"DEFINIR NOME"</string>
@@ -120,7 +120,7 @@
     <string name="This_player_is_not_signed_in">"Este jogador não está autenticado."</string>
 
     <string name="Online">"Online"</string>
-    <string name="Unknown">"Desconhecido"</string>
+    <string name="Unknown">"Desconhecido"</string
     <string name="Offline">"Offline"</string>
     <string name="Achievement_Earned">"Conquista realizada"</string>
     <string name="REFRESH">"ATUALIZAR"</string>
@@ -294,7 +294,7 @@
     <string name="Other_user_is_not_a_member_of_your_clan_">"Outro utilizador não é membro do seu Clã."</string>
     <string name="_You_can_t_be_your_own_friend_">"Não pode ser amigo de si próprio."</string>
     <string name="A_clan_with_that_name_already_exists_">"Já existe um Clã com esse nome."</string>
-    <string name="Duration_">"Duração:"</string>
+    <string name="Duration_">"DURAÇÃO:"</string>
 
     <string name="FFA_Time_Domination">"Dominador do FFA Tempo"</string>
     <string name="Teams_Time_Domination">"Dominador de Equipas Tempo"</string>
@@ -332,8 +332,8 @@
     <string name="Win_a_Survival_Game">"Vencer um jogo de Sobrevivência"</string>
     <string name="Win_a_Teams_Time_Game">"Vencer um jogo de Equipas Tempo"</string>
     <string name="Reach_a_score_of_">"Atingir uma pontuação de "</string>
-    <string name="_in_a_FFA_Game">" num jogo FFA"</string>
-    <string name="_in_a_Teams_Game">" num Jogo de Equipas"</string>
+    <string name="_in_a_FFA_Game">" Num jogo FFA"</string>
+    <string name="_in_a_Teams_Game">" Num Jogo de Equipas"</string>
     <string name="_dots">" pontos"</string>
     <string name="_player_blobs">" blobs"</string>
     <string name="Absorb_">"Absorver "</string>
@@ -342,7 +342,7 @@
     <string name="FFA_CLASSIC">"FFA CLÁSSICO"</string>
 
 
-    <string name="pumpkins_">"abóboras."</string>
+    <string name="pumpkins_">"Abóboras."</string>
     <string name="To_use_this_skin_you_must_collect">"Para utilizar esta skin, tens de coletar"</string>
     <string name="Australia">"Austrália"</string>
     <string name="Pumpkin_Collector">"Coletor de Abóboras"</string>
@@ -382,7 +382,7 @@
 
 
     <string name="snowflakes_">"flocos de neve."</string>
-    <string name="presents_">"presentes."</string>
+    <string name="presents_">"Presentes."</string>
     <string name="Snowflake_Collector">"Coletor de flocos de neve"</string>
     <string name="Present_Collector">"Coletor de Presentes"</string>
 
@@ -441,7 +441,7 @@
     <string name="You_cannot_remove_yourself__Leave_clan_instead_">"Não pode remover-se a si mesmo. Em vez disso, abandone o Clã."</string>
 
 
-    <string name="until">"até"</string>
+    <string name="until">"Até"</string>
     <string name="New_Message_">"Nova mensagem!"</string>
     <string name="Seasonal">"Por temporada"</string>
 
@@ -504,7 +504,7 @@
     <string name="Clan_General">"General do Clã"</string>
     <string name="Clan_Wars_Won_">"Guerras de Clãs vencidas:"</string>
     <string name="Arenas_Won_">"Arenas vencidas:"</string>
-    <string name="Arena_Mode">"Modo Arena"</string>
+    <string name="Arena_Mode">"MODO Arena"</string>
     <string name="Connection_Lost">"Conexão perdida"</string>
 
     <string name="Present_Hoarder">"Acumulador de Presentes"</string>
@@ -554,7 +554,7 @@
     <string name="REPORT">"REPORTAR"</string>
     <string name="Reported">"Reportado"</string>
     <string name="Threats">"Ameaças"</string>
-    <string name="Spam">"Spam"</string>
+    <string name="Spam">"SPAM"</string>
     <string name="Other">"Outro"</string>
     <string name="Leave_Team">"Abandonar Equipa"</string>
 
@@ -589,7 +589,7 @@
     <string name="Bead_Collector">"Coletor de Pérolas"</string>
     <string name="Bead_Hoarder">"Acumulador de Pérolas"</string>
     <string name="Bead_Mogul">Magnata de Pérolas"</string>
-    <string name="beads_">"pérolas."</string>
+    <string name="beads_">"PÉROLAS."</string>
 
     <string name="Rejoin_Game">"Reingressar Jogo"</string>
     <string name="PRIZES">"PRÉMIOS"</string>
@@ -611,7 +611,7 @@
 
 
     <string name="MAYHEM">"MAYHEM"</string>
-    <string name="eggs_">"ovos."</string>
+    <string name="eggs_">"OVOS."</string>
     <string name="Egg_Collector">"Coletor de Ovos"</string>
     <string name="Egg_Hoarder">"Acumulador de Ovos"</string>
     <string name="Egg_Mogul">"Magnata de Ovos"</string>
@@ -622,17 +622,17 @@
     <string name="CLAN_HISTORY">"HISTÓRICO DO CLÃ"</string>
 
 
-    <string name="Love_Nebulous_">"Gosta do Nebulous?"</string>
+    <string name="Love_Nebulous_">"GOSTA DO NEBULOUS?"</string>
     <string name="Please_support_Nebulous_by_rating_it_">"Por favor, apoie o Nebulous classificando-o."</string>
     <string name="MAYHEM_MODE">"MODO MAYHEM"</string>
     <string name="Times_Teleported_">"Vezes teletransportado:"</string>
-    <string name="Powerups_Used_">"Poderes utilizados:"</string>
+    <string name="Powerups_Used_">"PODERES UTILIZADOS:"</string>
     <string name="Power_Hungry">"Fome de Poderes"</string>
-    <string name="Over_9000">"Mais de 9000"</string>
-    <string name="Omnipresence">"Omnipresença"</string>
+    <string name="Over_9000">"MAIS de 9000"</string>
+    <string name="Omnipresence">"ONIPRESENÇA"</string>
 
-    <string name="Shoot_9001_Powerups">"Atirar 9001 Poderes"</string>
-    <string name="Teleport_100_Times">"Teletransportar 100 vezes"</string>
+    <string name="Shoot_9001_Powerups">"ATIRAR 9001 Poderes"</string>
+    <string name="Teleport_100_Times">"TELETRANSPORTAR 100 vezes"</string>
     <string name="Shoot_20_Powerups_Without_Restarting">"Atirar 20 Poderes sem reiniciar"</string>
     <string name="Request_Timed_Out">"O pedido expirou"</string>
     <string name="You_Are_Spectating_">"Estás a Espectar."</string>
@@ -643,10 +643,10 @@
     <string name="Raindrop_Collector">"Coletor de Gotas de Chuva"</string>
     <string name="Raindrop_Hoarder">"Acumulador de Gotas de Chuva"</string>
     <string name="Raindrop_Mogul">"Magnata de Gotas de Chuva"</string>
-    <string name="Collect_1_000_raindrops_">"Coletar 1 000 gotas de chuva."</string>
-    <string name="Collect_5_000_raindrops_">"Coletar 5 000 gotas de chuva."</string>
-    <string name="Collect_10_000_raindrops_">"Coletar 10 000 gotas de chuva."</string>
-    <string name="Copy_Message">"Copiar Mensagem"</string>
+    <string name="Collect_1_000_raindrops_">"COLETAR 1 000 gotas de chuva."</string>
+    <string name="Collect_5_000_raindrops_">"COLETAR 5 000 gotas de chuva."</string>
+    <string name="Collect_10_000_raindrops_">"COLETAR 10 000 gotas de chuva."</string>
+    <string name="Copy_Message">"COPIAR MENSAGEM"</string>
     <string name="Copied_to_clipboard_">"Copiado para a área de transferência."</string>
     <string name="COPY_NAME">"COPIAR NOME"</string>
     <string name="Challenge_Sent">"Desafio Enviado"</string>
@@ -671,7 +671,7 @@
     <string name="Update_Available_">"Atualização disponível!"</string>
     <string name="VIEW_INVITES">"VISUALIZAR CONVITES"</string>
     <string name="CLAN_INVITES">"CONVITES DE CLÃ"</string>
-    <string name="Cancel_Invitation">"Anular convite"</string>
+    <string name="Cancel_Invitation">"ANULAR CONVITE"</string>
     <string name="DOWNLOAD">"TRANSFERIR"</string>
     <string name="REJECT_ALL_FRIEND_INVITATIONS_">"Rejeitar todos os pedidos de amizade?"</string>
     <string name="suns_">"sóis."</string>
@@ -702,14 +702,14 @@
     <string name="banned_until">"Banido até "</string>
     <string name="Note_Collector">"Coletor de Notas</string>
     <string name="Note_Hoarder">"Acumulador de Notas"</string>
-    <string name="Note_Mogul">"Magnata de Notas"</string>
-    <string name="Collect_1_000_notes_">"Colectar 1 000 notas."</string>
-    <string name="Collect_5_000_notes_">"Colectar 5 000 notas."</string>
-    <string name="Collect_10_000_notes_">"Colectar 10 000 notas."</string>
+    <string name="Note_Mogul">"MAGNATA DE NOTAS"</string>
+    <string name="Collect_1_000_notes_">"CONECTAR 1 000 NOTAS."</string>
+    <string name="Collect_5_000_notes_">"CONECTAR 5 000 NOTAS."</string>
+    <string name="Collect_10_000_notes_">"CONECTAR 10 000 NOTAS."</string>
     <string name="notes_">"notas."</string>
-    <string name="CLICK_CHEAT_DETECTED_">"Batota de AutoClick detetada!"</string>
-    <string name="Pumpkin_Hoarder">"Acumulador de Abóboras"</string>
-    <string name="Pumpkin_Mogul">"Magnata de Abóboras"</string>
+    <string name="CLICK_CHEAT_DETECTED_">"BATOTA DE AUTOCONFIANÇA DETECTADA!"</string>
+    <string name="Pumpkin_Hoarder">"ACUMULADOR DE ABÓBORAS"</string>
+    <string name="Pumpkin_Mogul">"MAGNATA de Abóboras"</string>
     <string name="Leaf_Mogul">"Magnata de Folhas"</string>
     <string name="Collect_5000_pumpkins_">"Colectar 5 000 abóboras."</string>
     <string name="Collect_10000_pumpkins_">"Colectar 10 000 abóboras."</string>
@@ -717,7 +717,7 @@
     <string name="Eject">"Ejetar"</string>
     <string name="Eject_Skin">"Skin de ejetar"</string>
     <string name="Double_Plasma__">"Plasma a dobrar!!"</string>
-    <string name="Ends">"Termina em"</string>
+    <string name="Ends">"TERMINA EM"</string>
     <string name="Select_Clan_Member">"Selecionar membro do Clã"</string>
     <string name="Inappropriate_Skin">"Skin inapropriada"</string>
     <string name="Approved">"Aprovado"</string>
@@ -761,7 +761,7 @@
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"Nebulous precisa de permissões de Localização para poder encontrar dispositivos Bluetooth próximos."</string>
     <string name="FFA_ULTRA">"FFA ULTRA"</string>
     <string name="FFAU">"FFAU"</string>
-    <string name="_in_a_FFAU_Game">"num jogo de FFA ULTRA"</string>
+    <string name="_in_a_FFAU_Game">"Num jogo de FFA ULTRA"</string>
 
     <string name="BANNED_PLAYERS">"JOGADORES BANIDOS"</string>
     <string name="MAIL">"E-MAIL"</string>
@@ -813,7 +813,7 @@
     <string name="Not_Registered">"Não registado"</string>
     <string name="Prize_Pool">"Prémio"</string>
     <string name="Registrants">"Registados"</string>
-    <string name="Round_Of">"Ronda De"</string>
+    <string name="Round_Of">"RONDA DE"</string>
     <string name="Next_Tournament">"Próximo Torneio"</string>
     <string name="Plasma_Won">"Plasma Ganho"</string>
     <string name="Semi_Finals">"Semi-Finais"</string>
