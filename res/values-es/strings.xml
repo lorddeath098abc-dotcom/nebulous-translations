@@ -729,7 +729,7 @@
     <string name="contribution_warning">"¿Estás seguro de que quieres donar este plasma? Las donaciones no serán devueltas."</string>
     <string name="Upload">"Subir"</string>
     <string name="upload_warning">"¿Estás seguro de que deseas subir esta skin? Otros jugadores serán capaces de verla. Puede demorarse hasta 1 semana en ser revisada. Las skins inapropiadas serán rechazadas y el plasma no será devuelto."</string>
-
+     
     <string name="In_Review">"En revisión"</string>
     <string name="Account_Uploads">"Skins de la Cuenta"</string>
     <string name="Clan_Uploads">"Skins del Clan"</string>
@@ -1344,7 +1344,7 @@ Subir la misma skin NO aprobada varias veces resultará en más sanciones o en u
     <string name="BATTLE_ROYALE">BATTLE ROYALE</string>
     <string name="Battle_Royale">Battle Royale</string>
     <string name="The_winner_will_receive_x_plasma_">El ganador recibirá %s plasma!</string>
-    <string name="admin_commands">"
+    <string name="admin_commands">" “Comandos de administrador”
 Comandos:
 !kick [0–31] 
 !reset (Reiniciar la sala)
