@@ -1,58 +1,57 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="Players">"Jogadores"</string>
-    <string name="Control_">"Controle:"</string>
-    <string name="CLOSE">"FECHAR"</string>
-    <string name="Stick_Size_">"Tamanho do Controlador:"</string>
-    <string name="Stick_Margin_">"Margem do Controlador:"</string>
-    <string name="Button_Size_">"Tamanho dos Botões:"</string>
-    <string name="Button_Margin_">"Margem dos Botões:"</string>
-    <string name="Buttons_">"Botões"</string>
-    <string name="DEFAULTS">"PADRÕES"</string>
-    <string name="WEEKLY">"SEMANAL"</string>
-    <string name="DAILY">"DIÁRIO"</string>
-    <string name="Server_">"Servidor:"</string>
-    <string name="Game_Mode_">"Modo de Jogo:"</string>
-    <string name="Show_Names">"Mostrar Nomes"</string>
-    <string name="Show_Avatars">"Mostrar Skins"</string>
-    <string name="PLAY">"JOGAR"</string>
-    <string name="OPTIONS">"OPÇÕES"</string>
-
-    <string name="Avatar_">"Skin:"</string>
-    <string name="Name_">"Nome:"</string>
-
-    <string name="Loading___">"Carregando…"</string>
-    <string name="Connecting___">"Conectando…"</string>
-
-    <string name="Are_You_Sure_">"Você tem Certeza?"</string>
-    <string name="Yes">"Sim"</string>
-    <string name="No">"Não"</string>
-    <string name="WAIT">"AGUARDE…"</string>
-    <string name="Must_Specify_Name_">"É Necessário Especificar um Nome."</string>
-
-    <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Classificação de conteúdo do aplicativo pode mudar quando encontrar grupos."</string>
-
-    <string name="_Rank_">" Posição "</string>
-    <string name="_Alias_">" Apelido "</string>
-    <string name="_Score_">" Pontos "</string>
-    <string name="Score__">"Pontuação: "</string>
-    <string name="Recombine_">"Recombinar: "</string>
-    <string name="WINNER_">"VENCEDOR:"</string>
-    <string name="IDLE">"INATIVO"</string>
-    <string name="Name_Invalid_">"Nome inválido."</string>
-    <string name="Name_Taken_">"Nome em uso."</string>
-    <string name="CONNECTED">"CONECTADO"</string>
-    <string name="JOINING___">"JUNTANDO…"</string>
-    <string name="PLAYING">"JOGANDO"</string>
-    <string name="MULTIPLAYER">"MULTIJOGADOR"</string>
-
-    <string name="JOIN">"JUNTAR"</string>
-
-
-    <string name="Lobby_Name">"Nome da Sala"</string>
-    <string name="Not_found_">"Não encontrado."</string>
-
-    <string name="Hidden">"Escondido"</string>
-
+    <!-- Menus Principais -->
+    <string name="Players">Jogadores</string>
+    <string name="Control_">Controle Principal:</string> <!-- alteração 1: "Controle" → "Controle Principal" -->
+    <string name="CLOSE">FECHAR</string>
+    <string name="Stick_Size_">Tamanho do Controle:</string>
+    <string name="Stick_Margin_">Margem do Controle:</string>
+    <string name="Button_Size_">Tamanho dos Botões:</string>
+    <string name="Button_Margin_">Margem dos Botões:</string>
+    <string name="Buttons_">Botões</string>
+    <string name="DEFAULTS">PADRÕES</string>
+    <string name="WEEKLY">SEMANAL</string>
+    <string name="DAILY">DIÁRIO</string>
+    <string name="Server_">Servidor:</string>
+    <string name="Game_Mode_">Modo de Jogo:</string>
+    <string name="Show_Names">Mostrar Nomes de Jogadores</string> <!-- alteração 2: frase levemente expandida -->
+    <string name="Show_Avatars">Exibir Skins</string> <!-- alteração 3: "Mostrar Skins" → "Exibir Skins" -->
+    <string name="PLAY">JOGAR</string>
+    <string name="OPTIONS">OPÇÕES</string>
+    <string name="Avatar_">Skin Selecionada:</string> <!-- alteração 4: frase ajustada -->
+    <string name="Name_">Nome do Jogador:</string> <!-- alteração 5: frase ajustada -->
+    <string name="Loading___">Carregando…</string>
+    <string name="Connecting___">Conectando ao servidor…</string> <!-- alteração 6: frase expandida levemente -->
+    <string name="Are_You_Sure_">Tem certeza de sua escolha?</string> <!-- alteração 7: frase modificada -->
+    <string name="Yes">Sim</string>
+    <string name="No">Não</string>
+    <string name="WAIT">AGUARDE…</string>
+    <string name="Must_Specify_Name_">Você precisa especificar um nome.</string> <!-- alteração 8: frase modificada -->
+    <string name="Content_rating_of_the_app_may_change_when_finding_groups_">A classificação de conteúdo pode mudar ao procurar grupos.</string> <!-- alteração 9: frase levemente ajustada -->
+    <string name="_Rank_">Posição</string>
+    <string name="_Alias_">Apelido</string>
+    <string name="_Score_">Pontos</string>
+    <string name="Score__">Pontuação:</string>
+    <string name="Recombine_">Recombinar:</string>
+    <string name="WINNER_">VENCEDOR:</string>
+    <string name="IDLE">INATIVO</string>
+    <string name="Name_Invalid_">Nome inválido.</string>
+    <string name="Name_Taken_">Nome já em uso.</string> <!-- alteração 10: frase ajustada -->
+    <string name="CONNECTED">CONECTADO</string>
+    <string name="JOINING___">JUNTANDO…</string>
+    <string name="PLAYING">JOGANDO</string>
+    <string name="MULTIPLAYER">MULTIJOGADOR</string>
+    <string name="JOIN">JUNTAR</string>
+    <string name="Lobby_Name">Nome da Sala</string>
+    <string name="Not_found_">Não encontrado.</string>
+    <string name="Hidden">Escondido</string>
+    <string name="SERVER">SERVIDOR</string>
+    <string name="Joining_game_in_">Preparando para entrar no jogo em</string>
+    <string name="Game_Full">Jogo Cheio</string>
+    <string name="US_East">América Central</string>
+    <string name="US_West">América do Norte</string>
+    <string name="Europe">Europa</string>
+    <string name="South_America">Brasil</string>
+</resources>
 
     <string name="SERVER">"SERVIDOR"</string>
     <string name="Joining_game_in_">"Entrando no jogo em "</string>
